@@ -1459,6 +1459,7 @@ a:focus {
     width: 100%;
     padding: 30px;
     background: #121518;
+    border-radius: 5%;
 }
 
 .contact .contact-item {
@@ -1469,6 +1470,7 @@ a:focus {
     align-items: flex-start;
     flex-direction: row;
     border: 2px solid #aa9166;
+    border-radius: 5%;
 }
 
 .contact .contact-item i {
@@ -1512,14 +1514,14 @@ a:focus {
 
 .contact .contact-form input {
     height: 60px;
-    border-radius: 0;
+    border-radius: 5%;
     border-width: 2px;
     border-color: #121518;
 }
 
 .contact .contact-form textarea {
     height: 190px;
-    border-radius: 0;
+    border-radius: 5%;
     border-width: 2px;
     border-color: #121518;
 }
@@ -1533,7 +1535,7 @@ a:focus {
     color: #aa9166;
     background: #121518;
     border: 2px solid #aa9166;
-    border-radius: 0;
+    border-radius: 5%;
     transition: .3s;
 }
 
